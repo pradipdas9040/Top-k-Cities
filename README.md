@@ -1,0 +1,2 @@
+# Top-k-Cities
+Suppose the Indian Government is taking an initiative to set up several new Indian Institute of Entrepreneurship (IIE) around the country. For making a decision about where to set it up, they have made an open call to the citizens of India. Anybody can submit any number of cities as the location. Write a program to choose the top k cities that have been proposed by the respondents to the call.
